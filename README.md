@@ -18,6 +18,7 @@ Usage
 Save the file as mywebpage.html (if you wish to run it directly in a browser; browsers may not render .txt as HTML).
 Open the file in any web browser.
 You will see the sum of 1234 and 2888 displayed as shown above.
+
 Notes
 For more interactive input (e.g., accepting numbers from the user), you can modify the script to use HTML form elements and take input from the user.
 This example demonstrates basic use of variables, operators, and document output in JavaScript.

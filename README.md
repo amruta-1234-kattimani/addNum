@@ -1,10 +1,6 @@
 Add Two Numbers - Webpage
 This project provides a simple HTML webpage that demonstrates how to add two numbers using JavaScript. When the page is loaded, it automatically calculates the sum of two predefined numbers and displays the result on the page.
 
-File: mywebpage.txt
-The file contains the following code:
-
-
 How It Works
 Two numbers are predefined:
 numOne = 1234

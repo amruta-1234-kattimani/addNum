@@ -1,5 +1,23 @@
-mynself amruta s kattimani
-currently i am studying in sksvmacet laxmeshwar
-my email address is kattimaniamruta8@gmail.com
-i learn about c and python languges
+Add Two Numbers - Webpage
+This project provides a simple HTML webpage that demonstrates how to add two numbers using JavaScript. When the page is loaded, it automatically calculates the sum of two predefined numbers and displays the result on the page.
 
+File: mywebpage.txt
+The file contains the following code:
+
+
+How It Works
+Two numbers are predefined:
+numOne = 1234
+numTwo = 2888
+Their sum is calculated and displayed directly on the page using document.write.
+Output
+When you open the HTML file in your browser, you will see the following output:
+
+Sum = 4122
+Usage
+Save the file as mywebpage.html (if you wish to run it directly in a browser; browsers may not render .txt as HTML).
+Open the file in any web browser.
+You will see the sum of 1234 and 2888 displayed as shown above.
+Notes
+For more interactive input (e.g., accepting numbers from the user), you can modify the script to use HTML form elements and take input from the user.
+This example demonstrates basic use of variables, operators, and document output in JavaScript.
